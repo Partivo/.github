@@ -1,12 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We are Partivo</h1>
+<h3 align="center">Partivo Company</h3>
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="partivo" /></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+- 🖥️ We are working on software and web developement stuff
+
+- 📫 Contact us **admin@partivo.net**
+
+- 🔗 Web Site **https://partivo.net/**
+
+- ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
+
+<br>
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+  <a href="https://tr.linkedin.com/company/partivo?" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="partivo" height="30" width="40" /></a> 
+  <a href="https://www.instagram.com/partivocomp/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="partivo" height="30" width="40" /></a> 
+  <a href="https://www.r10.net/profil/161321-partivo.html" target="blank"><img align="center"
+      src="https://cdn.r10.net/modern/img/svg/rokito-light.svg"
+      alt="partivo" height="30" width="40" /></a> 
+ <a href="https://twitter.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="partivo" height="30" width="40" /></a> 
+</p>
+
+<br>
