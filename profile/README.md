@@ -14,7 +14,6 @@
 
 - ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
 
-<br>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
