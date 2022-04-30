@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, We are Partivo</h1>
 <h3 align="center">Partivo Company</h3>
 
-<br>
-
 <p><img align="right" src="https://github.com/Partivo/.github/blob/master/profile/animation_500_kxa883sd.gif" alt="partivo" /></p>
 
 
@@ -15,7 +13,7 @@
 - ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
 
 
-<h3 align="left">Connect with us:</h3>
+### Connect with us:
 <p align="left">
   <a href="https://tr.linkedin.com/company/partivo?" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
