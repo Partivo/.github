@@ -12,9 +12,10 @@
 
 - ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
 
+<br>
 
 ### Connect with us:
-<p align="left">
+<p>
   <a href="https://tr.linkedin.com/company/partivo?" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="partivo" height="30" width="40" /></a> 
@@ -28,5 +29,3 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="partivo" height="30" width="40" /></a> 
 </p>
-
-<br>
