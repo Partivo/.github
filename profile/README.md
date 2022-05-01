@@ -4,6 +4,7 @@
 <p><img align="right" src="https://github.com/Partivo/.github/blob/master/profile/animation_500_kxa883sd.gif" alt="partivo" /></p>
 
 <br>
+<br>
 
 - 🖥️ We are working on software and web development stuff
 
