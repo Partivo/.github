@@ -18,10 +18,10 @@
 
 ### Connect with us:
 <p>
-  <a href="https://tr.linkedin.com/company/partivo?" target="blank"><img align="center"
+  <a href="https://linkedin.com/company/partivo" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="partivo" height="30" width="40" /></a> 
-  <a href="https://www.instagram.com/partivocomp/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/partivocomp" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="partivo" height="30" width="40" /></a> 
   <a href="https://www.r10.net/profil/161321-partivo.html" target="blank"><img align="center"
