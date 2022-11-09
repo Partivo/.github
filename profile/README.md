@@ -12,6 +12,13 @@
 # 💫 About Me:
 Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.<br>It has many brands and these brands are developing day by day with solutions suitable for their target audience.<br>Partivo was founded in 2020 and started its services in 2022 after a 2-year preparation phase.<br>Our visionary and dynamic team members are here for you. Feel the magic of Partivo.
 
+- 🖥️ We are working on software and web development stuff
+
+- 📫 Contact us **admin@partivo.net**
+
+- 🔗 Web Site **https://partivo.net/**
+
+- ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/partivo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/partivo.company) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/partivo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/partivo) 
