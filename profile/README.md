@@ -1,7 +1,5 @@
 <p><img align="right" src="https://github.com/Partivo/.github/blob/master/profile/animation_500_kxa883sd.gif" alt="partivo" /></p>
 
-<br>
-
 # :dizzy: About Me:
 Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.<br>It has many brands and these brands are developing day by day with solutions suitable for their target audience.<br>Partivo was founded in 2020 and started its services in 2022 after a 2-year preparation phase.<br>Our visionary and dynamic team members are here for you. Feel the magic of Partivo.
 
