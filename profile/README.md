@@ -6,14 +6,6 @@
 <br>
 <br>
 
-- 🖥️ We are working on software and web development stuff
-
-- 📫 Contact us **admin@partivo.net**
-
-- 🔗 Web Site **https://partivo.net/**
-
-- ✨	 Fun fact : It doesn't matter if they steal my idea... The important thing is that they don't have their own ideas.
-
 <br>
 
 
