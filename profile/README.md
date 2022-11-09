@@ -6,7 +6,8 @@
 
 <br>
 <br>
-# 💫 About Me:
+
+# :dizzy: About Me:
 Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.<br>It has many brands and these brands are developing day by day with solutions suitable for their target audience.<br>Partivo was founded in 2020 and started its services in 2022 after a 2-year preparation phase.<br>Our visionary and dynamic team members are here for you. Feel the magic of Partivo.
 
 - 🖥️ We are working on software and web development stuff
