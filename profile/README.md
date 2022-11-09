@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, We are Partivo</h1>
-<h3 align="center">Partivo Company</h3>
+![Header](./github-header-image.png)
+
+
 
 <p><img align="right" src="https://github.com/Partivo/.github/blob/master/profile/animation_500_kxa883sd.gif" alt="partivo" /></p>
 
