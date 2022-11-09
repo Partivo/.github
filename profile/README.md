@@ -16,21 +16,6 @@
 
 <br>
 
-### Connect with us:
-<p>
-  <a href="https://linkedin.com/company/partivo" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="partivo" height="30" width="40" /></a> 
-  <a href="https://www.instagram.com/partivocomp" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="partivo" height="30" width="40" /></a> 
-  <a href="https://www.r10.net/profil/161321-partivo.html" target="blank"><img align="center"
-      src="https://cdn.r10.net/modern/img/svg/rokito-light.svg"
-      alt="partivo" height="30" width="40" /></a> 
- <a href="https://twitter.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="partivo" height="30" width="40" /></a> 
-</p>
 
 # 💫 About Me:
 Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.<br>It has many brands and these brands are developing day by day with solutions suitable for their target audience.<br>Partivo was founded in 2020 and started its services in 2022 after a 2-year preparation phase.<br>Our visionary and dynamic team members are here for you. Feel the magic of Partivo.
