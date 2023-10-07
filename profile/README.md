@@ -16,7 +16,6 @@
 ### About Us:  
 Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.
 Partivo includes many brands and these brands are developing day by day with solutions that suitable for their target audience.
-Partivo was established in 2020 and started its services in 2022 after a 2-year preparation phase.
 Our visionary and dynamic team members are here for you. Feel the magic of Partivo.  
 <br/> 
 
