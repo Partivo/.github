@@ -13,19 +13,17 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
-### About Us:  
-Partivo is an organization that wants to make a difference with its up-to-date creative services and innovative ideas in every field.
-Partivo includes many brands and these brands are developing day by day with solutions that suitable for their target audience.
-Our visionary and dynamic team members are here for you. <b>Feel the magic of Partivo.</b>
-<br/> 
+### Who we are
 
-### Others:  
+Partivo is an organization founded in 2020 in Turkey by three close friends. Our mission is to make a difference with cutting-edge creative services and innovative ideas in every field.
 
-- 🖥️ We are working on software and web development stuff
+### Founding Story
 
-- 📫 Contact us **admin@partivo.net**
+Partivo's roots were formed when three visionary entrepreneurs came together. Founded in 2020, our company started with just an idea and a few passionate individuals. Our goal was to harness the power of technology to deliver innovative solutions to our customers. Today, as Partivo, we continue to grow and evolve with that mission.
 
-- 🔗 Web Site **https://partivo.net/**
+At Partivo, we pride ourselves on helping our customers grow their businesses by prioritizing customer satisfaction and staying at the forefront of technological innovation. Focused on the future, we are committed to pushing boundaries and writing new success stories.
+
+
 <br/>  
 
 ### Languages and Tools:
